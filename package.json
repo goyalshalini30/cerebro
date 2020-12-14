@@ -1,0 +1,30 @@
+{
+  "name": "graphiql-js-next-example",
+  "version": "1.0.0",
+  "description": "using latest CRA aka react-scripts with javascript",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "graphiql": "latest",
+    "graphql": "latest",
+    "prop-types": "15.7.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "^3.4.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
